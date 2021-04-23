@@ -1,5 +1,6 @@
 import { format, parseISO } from 'date-fns';
 import ptBR from 'date-fns/locale/pt-BR';
+
 import { GetStaticPaths, GetStaticProps } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -19,11 +20,11 @@ type Episode = {
   url: string;
   publishedAt: string;
   description: string;
-}
+};
 
 type EpisodeProps = {
   episode: Episode;
-}
+};
 
 export default function Episode({ episode }: EpisodeProps) {
   return (
