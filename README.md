@@ -5,9 +5,9 @@
 <p align="center">
   <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=5965E0&labelColor=121214" alt="License">
   
-  <img src="https://img.shields.io/github/forks/jemsantos/podcastr?label=forks&message=MIT&color=5965E0&labelColor=121214" alt="Forks">     
+  <img src="https://img.shields.io/github/forks/jemsantos/nlw5_podcastr?label=forks&message=MIT&color=5965E0&labelColor=121214" alt="Forks">     
 
-  <img src="https://img.shields.io/github/stars/jemsantos/podcastr?label=stars&message=MIT&color=5965E0&labelColor=121214" alt="Stars">
+  <img src="https://img.shields.io/github/stars/jemsantos/nlw5_podcastr?label=stars&message=MIT&color=5965E0&labelColor=121214" alt="Stars">
 </p>
 
 <br>
@@ -29,7 +29,7 @@ This project was developed using the following technologies:
 Clone the project and access the folder
 
 ```bash
-$ git clone https://github.com/jemsantos/podcastr.git && cd podcastr
+$ git clone https://github.com/jemsantos/nlw5_podcastr.git && cd podcastr
 ```
 
 Follow the steps below
