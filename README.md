@@ -1,8 +1,5 @@
-# nlw5_podcastr
-# Aplicação Podcastr desenvolvida durante a NLW5 da RocketSeat
-
 <h1 align="center">
-    <img alt="Podcastr" title="Podcastr" src=".github/podcastr.svg" />
+    <img alt="Podcastr" title="Podcastr" src="https://github.com/guilhermecapitao/podcastr/blob/master/.github/podcastr.svg" />
 </h1>
 
 <p align="center">
@@ -16,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="Moveit" src=".github/icon.svg" width="160px">
+  <img alt="Moveit" src="https://github.com/guilhermecapitao/podcastr/blob/master/.github/icon.svg" width="160px">
 </p>
 
 ## 🧪 Technologies
@@ -48,8 +45,6 @@ $ yarn dev
 ```
 
 ## 💻 Project
-
-# [Podcastr](https://podcastr-nlw.vercel.app/) to bring you even closer to the best technology podcasts! 💜 
 
 This is a project developed during the **[Next Level Week](https://nextlevelweek.com/)**, presented by **[@Rocketseat](https://github.com/Rocketseat)** during April 19-25, 2021.
 
