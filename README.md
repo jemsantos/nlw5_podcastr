@@ -3,6 +3,14 @@
 </h1>
 
 <p align="center">
+  <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license">License</a>
+</p>
+
+<p align="center">
   <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=5965E0&labelColor=121214" alt="License">
   
   <img src="https://img.shields.io/github/forks/jemsantos/nlw5_podcastr?label=forks&message=MIT&color=5965E0&labelColor=121214" alt="Forks">     
@@ -29,7 +37,7 @@ This project was developed using the following technologies:
 Clone the project and access the folder
 
 ```bash
-$ git clone https://github.com/jemsantos/nlw5_podcastr.git && cd podcastr
+$ git clone https://github.com/jemsantos/nlw5_podcastr.git && cd nlw5_podcastr
 ```
 
 Follow the steps below
